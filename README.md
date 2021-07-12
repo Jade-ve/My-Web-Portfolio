@@ -1,13 +1,15 @@
-# {Portfolio}
-#### {About the author}
-#### By **{Susan Jadeve}**
+# {Web Portfolio}
+#### {Introduces the author of the project.}
+#### By **{Susan Jadeve Karimi}**
 ## Description
-{Get to know about the author.}
-{The application has used, html and css languages.}
+{Introduces the author of the works under the repositories, her education, hobbies and the reason as to why she decided to take a class of software development. You meet and get to know Susan Jadeve.}
 ## Known Bugs
-{unknown bugs}
+unknown bugs
+## Technologies Used
+{Html and css languages have been used here.}
 ## Support and contact details
-{If you have any questions or suggestions kindly contact me at susanjadeve@gmail.com}
+{If you have any questions or suggestions, kindly contact me at susan.jadeve@gmail.com}
 ### License
-*{https://choosealicense.com/licenses/mit/}*
+*{MIT, https://choosealicense.com/licenses/mit/}
 Copyright (c) {year} **{Susan Jadeve Karimi}**
+  
